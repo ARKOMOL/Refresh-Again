@@ -24,7 +24,9 @@ useEffect(()=>{
 
     {
       countries.map(country=>
-       <Country  country={country}/>
+       <Country 
+       key={country.car.cca3}
+       country={country}/>
         )
     }
 

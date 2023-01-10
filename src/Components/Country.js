@@ -5,6 +5,9 @@ const Country = ({country}) => {
     return (
         <div>
             {country.name.common}
+          <h1>
+          {country.car.cca3}
+          </h1>
         </div>
     );
 };
