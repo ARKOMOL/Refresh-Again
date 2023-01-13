@@ -9,6 +9,9 @@ const Country = ({country}) => {
           <h1>
          {population}
           </h1>
+          <h1>
+         {population}
+          </h1>
           <img src={flags.png} alt="" />
         </div>
     );
