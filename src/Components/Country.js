@@ -1,7 +1,7 @@
 import React from 'react';
 
 const Country = ({country}) => {
-    const {name,population,flags} = country
+    const {name,population,flags,timezones} = country
     // console.log(country)
     return (
         <div>
@@ -9,8 +9,9 @@ const Country = ({country}) => {
           <h1>
          {population}
           </h1>
+          
           <h1>
-         {population}
+         {timezones}
           </h1>
           <img src={flags.png} alt="" />
         </div>
