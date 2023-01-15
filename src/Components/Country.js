@@ -16,6 +16,13 @@ const Country = ({country}) => {
           <h1>
          {idd.root}
           </h1>
+          <h1>
+         {idd.root}
+          </h1>
+          <h1>
+         {idd.root}
+          </h1>
+          <img src={flags.png} alt="" />
           <img src={flags.png} alt="" />
           <img src={flags.png} alt="" />
         </div>
