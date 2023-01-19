@@ -9,7 +9,9 @@ const Country = ({country}) => {
           <h1>
          {population}
           </h1>
-          
+          <h1>
+            hi
+          </h1>
           <h1>
          {timezones}
           </h1> 
