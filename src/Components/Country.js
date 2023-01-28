@@ -19,6 +19,10 @@ const Country = ({country}) => {
           </h1> 
         
           <h1>
+         {timezones}
+          </h1> 
+        
+          <h1>
          {idd.root}
           </h1>
            
