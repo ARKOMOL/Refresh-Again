@@ -26,6 +26,11 @@ const Country = ({country}) => {
          {idd.root}
           </h1>   
           
+   d  
+          <h1>
+         {idd.root}
+          </h1>   
+          
    d
         
           
