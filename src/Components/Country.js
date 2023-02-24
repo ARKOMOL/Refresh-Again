@@ -26,10 +26,7 @@ const Country = ({country}) => {
          {idd.root}
           </h1>   
            
-          <h1>
-         {idd.root}
-          </h1>   
-           
+      
         
  
         
